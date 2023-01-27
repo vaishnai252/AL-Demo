@@ -1,1 +1,2 @@
 Creating the merge conflicts
+and send the pull request.
